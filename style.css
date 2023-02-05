@@ -341,7 +341,7 @@ p{
     justify-content: center;
     color: goldenrod;
     font-size: 400%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #hi{
@@ -350,12 +350,12 @@ p{
     font-size: 200%;
 }
 
-#hi1 {
+/* #hi1 {
     border: 1px solid red;
-}
+} */
 
 #main {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -365,7 +365,7 @@ p{
 
 #render{
     z-index: 1;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 20%;
     height: 30%;
     display: none;
@@ -375,7 +375,7 @@ p{
 }
 
 #pics {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 25%;
 }
     /* display: flex;
@@ -385,7 +385,7 @@ p{
 #diffpet {
     display: flex;
     justify-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 2000%;
 }
 #petType{
@@ -406,11 +406,11 @@ p{
 #submitbutton {
     display: flex;
     justify-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #playbuttons {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     justify-content: space-evenly;
     height: 100px;
