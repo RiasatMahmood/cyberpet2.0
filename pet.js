@@ -614,7 +614,7 @@ start.addEventListener("click", () => {
 
         else if (select.value == "Dog") {
 
-            image.src = "/cyberpet2/dog.jpg"
+            image.src = "dog.jpg"
             mate = Dog
             // renderData()
             start.textContent = "Reset"
@@ -623,7 +623,7 @@ start.addEventListener("click", () => {
 
         else if (select.value == "Cybercat") {
             mate = Cybercat
-            image.src = "/cyberpet2/cybercat.webp"
+            image.src = "cybercat.webp"
             // renderData()
             
             start.textContent = "Reset"
